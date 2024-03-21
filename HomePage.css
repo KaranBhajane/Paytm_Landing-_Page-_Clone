@@ -130,7 +130,7 @@ a {
 #para {
     position: relative;
     font-size: 20px;
-    font-weight:bolder;
+    font-weight: bolder;
     font-family: sans-serif;
     top: 4rem;
     right: 3.7rem;
@@ -174,12 +174,14 @@ a {
     font-family: sans-serif;
     cursor: pointer;
 }
-.downloadSection:hover{
-    
+
+.downloadSection:hover {
+
     box-shadow: 0px 0px 15px black;
 }
-.Navnbarhover:hover{
-    box-shadow: 0 5px 15px rgba(0,41,112,.1);
+
+.Navnbarhover:hover {
+    box-shadow: 0 5px 15px rgba(0, 41, 112, .1);
 
 }
 
@@ -271,7 +273,7 @@ a {
 }
 
 #topBox2 {
-    background-color: rgb(0, 41, 112);
+    background-color: rgba(0, 41, 99, 0.897);
 }
 
 .ImgBox2 {
@@ -303,5 +305,338 @@ a {
     position: relative;
     left: 5rem;
     top: 3rem;
+}
 
+.box3 {
+    height: 1500px;
+    width: auto;
+    background-color: #F5F7FA;
+    position: relative;
+    top: 10.6rem;
+}
+
+#headingBigBox3 {
+    font-size: 48px;
+    font-family: sans-serif;
+    position: relative;
+    top: 5rem;
+}
+
+.midbox2 {
+    height: 620px;
+    width: 1170px;
+    position: relative;
+    top: 7rem;
+    left: 11rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+
+.leftbox1 {
+    height: 368px;
+    width: 452px;
+}
+
+.ImgPaytmWallet {
+    height: 80px;
+    width: 95px;
+}
+
+
+.PaytmWallet {
+    width: 5rem;
+    display: flex;
+    align-items: center;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.headerMidBox3 {
+    height: 92px;
+    width: 390px;
+    border: 2px solid black;
+    color: black;
+    font-size: 36px;
+}
+
+#headingMidBox3 {
+    width: 5rem;
+    font-size: 31px;
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    top: 2rem;
+}
+
+#paraMidBox3 {
+    font-size: 17px;
+    font-weight: 500;
+    font-family: sans-serif;
+    position: relative;
+    top: 3rem;
+    display: inline-block;
+    height: 3rem;
+}
+
+#downloadSection2 {
+    position: relative;
+    right: 5rem;
+}
+
+
+.rightBox1 {
+    height: 455px;
+    width: 460px;
+
+}
+
+#PaytmWalletRightBox1 {
+    height: 466px;
+    width: 543px;
+}
+
+.midbox4 {
+    height: 620px;
+    width: 1170px;
+    background-color: white;
+    position: relative;
+    top: 10rem;
+    left: 11rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.leftbox2 {
+    height: 368px;
+    width: 452px;
+    position: relative;
+    right: 4rem;
+    top: 3rem;
+
+}
+
+.rightBox2 {
+    height: 368px;
+    width: 452px;
+    position: relative;
+    bottom: 2rem;
+    right: -2rem;
+
+}
+
+.img2RightBox {
+    height: 466px;
+    width: 543px;
+    position: relative;
+    bottom: 2.1rem;
+}
+
+.ImgPaytmWallet {
+    position: relative;
+
+}
+
+.box5 {
+    height: 800px;
+    width: auto;
+    /* border: 2px solid black; */
+    background-color: #F5F7FA;
+    /* background-color: black; */
+    position: relative;
+    top: 10rem;
+}
+
+.flexBox5 {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.leftBox3 {
+    height: 700px;
+    width: 561px;
+    background-color: #fff;
+    border-radius: 16px;
+    position: relative;
+    left: 2.5rem;
+}
+
+.paytmHDFCImg {
+    width: 185px;
+    height: 77px;
+    position: relative;
+    top: 4rem;
+    left: 4rem;
+}
+
+.box5Heading {
+    font-size: 41px;
+    font-family: sans-serif;
+    position: relative;
+    top: 6rem;
+    left: 4rem;
+}
+
+.box5para {
+    width: 433px;
+    height: 60px;
+    font-size: 20px;
+    font-family: sans-serif;
+    position: relative;
+    top: 7.8rem;
+    left: 4rem;
+}
+
+.box5Subpara {
+    width: 353px;
+    height: 34px;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: rgb(117, 118, 127);
+    position: relative;
+    top: 8rem;
+    left: 4rem;
+}
+
+.paytmHDFCBox {
+    width: 463px;
+    height: 296px;
+    position: relative;
+    top: 8.5rem;
+    left: 4rem;
+}
+
+.rightBox3 {
+    height: 700px;
+    width: 561px;
+    background-color: #fff;
+    border-radius: 16px;
+    position: relative;
+    right: 4.5rem;
+}
+
+.PaytmSBIImg {
+    height: 20px;
+    width: 196px;
+    position: relative;
+    top: 8rem;
+    left: 3rem;
+}
+
+.paraBox5Right {
+    width: 433px;
+    height: 60px;
+    font-size: 20px;
+    font-family: sans-serif;
+    position: relative;
+    top: 11rem;
+    left: 3rem;
+}
+
+.box5HeadingRightBox {
+    font-size: 41px;
+    font-family: sans-serif;
+    position: relative;
+    top: 9.2rem;
+    left: 3rem;
+}
+
+.box5SubparaRightBox {
+    width: 353px;
+    height: 34px;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: rgb(117, 118, 127);
+    position: relative;
+    top: 11rem;
+    left: 3rem;
+}
+
+.PaytmSbiBoxImg {
+    width: 463px;
+    height: 296px;
+    position: relative;
+    top: 12rem;
+    left: 4rem;
+}
+
+.box6 {
+    height: 571px;
+    width: auto;
+    position: relative;
+    top: 16rem;
+}
+
+.sentence {
+    font-family: sans-serif;
+    font-size: 48px;
+    position: relative;
+    top: 7rem;
+    left: 10rem;
+}
+
+.Box6Img1Left {
+    width: 212px;
+    height: 40px;
+    position: relative;
+    top: 9rem;
+    left: 10rem;
+}
+
+.headingBox6 {
+    width: 468px;
+    height: 100px;
+    font-size: 41px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    position: relative;
+    top: 12rem;
+    left: 10rem;
+}
+
+.parabox6 {
+    display: inline-block;
+    width: 515px;
+    height: 116px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 14rem;
+    left: 10rem;
+}
+
+.LearnMoreButton {
+    width: 162px;
+    height: 49px;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(0, 41, 112);
+    position: relative;
+    top: 16rem;
+    left: 10rem;
+
+}
+
+.LearnMoreText {
+    position: relative;
+    top: 0.7rem;
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+
+}
+
+.box6RightBox {
+    width: 452px;
+    height: 499px;
+    position: relative;
+    bottom: 13rem;
+    left: 55rem;
 }
