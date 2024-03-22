@@ -853,3 +853,160 @@ a {
     cursor: pointer;
 
 }
+
+.Box10 {
+    width: auto;
+    height: 877px;
+    position: relative;
+    top: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.subBox10 {
+    width: 1170px;
+    height: 624px;
+    background-color: #F5F7FA;
+    border-radius: 10px;
+}
+
+.flexBox10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 5rem;
+}
+
+.flexBoxUpperBox {
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+    position: relative;
+    top: 5rem;
+}
+
+.Box10Upper {
+    width: 433px;
+    height: 464px;
+}
+
+.headingBox10 {
+    width: 1170px;
+    height: 50px;
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 11rem;
+    top: 2rem;
+}
+
+.headerBox10 {
+    font-weight: bold;
+    width: 390px;
+    height: 92px;
+    font-size: 36px;
+    font-family: sans-serif;
+    color: black;
+    position: relative;
+    top: 9rem;
+}
+
+.paraBox10 {
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    position: relative;
+    top: 10rem;
+}
+
+.LearnMoreButton5 {
+    width: 162px;
+    height: 49px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(0, 41, 112);
+    position: relative;
+    top: 12rem;
+    cursor: pointer;
+
+}
+
+.Box10UpperBox {
+    width: 433px;
+    height: 464px;
+    position: relative;
+    left: 6.3rem;
+}
+
+.box10Lower {
+    width: 1170px;
+    height: 624px;
+    background-color: #F5F7FA;
+    border-radius: 10px;
+    position: relative;
+    left: 11rem;
+    bottom: 1.2rem;
+    display: flex;
+    justify-content: end;
+}
+
+.lowerFlexBox10 {
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+}
+
+
+.LowerBigBox10 {
+    width: 474px;
+    height: 322px;
+
+}
+
+.headingLowerBox10 {
+    width: 390px;
+    height: 92px;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    position: relative;
+    top: 3rem;
+    right: 8rem;
+
+}
+
+.paraLowerBox10 {
+    display: inline-block;
+    width: 420px;
+    height: 132px;
+    font-family: sans-serif;
+    font-weight: 520;
+    font-size: 17px;
+    position: relative;
+    top: 4.3rem;
+    right: 8rem;
+
+}
+
+.LearnMoreButton6 {
+    width: 162px;
+    height: 49px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(0, 41, 112);
+    position: relative;
+    cursor: pointer;
+    position: relative;
+    top: 2rem;
+    right: 8rem;
+}
+
+.Box10LowerBox {
+    width: 433px;
+    height: 341.69px;
+    position: relative;
+    left: 2.6rem;
+}
