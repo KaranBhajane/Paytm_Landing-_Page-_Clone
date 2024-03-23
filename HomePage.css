@@ -1010,3 +1010,105 @@ a {
     position: relative;
     left: 2.6rem;
 }
+
+.Box11 {
+    width: auto;
+    height: 932px;
+}
+
+.headingBox11 {
+    height: 185px;
+    width: 480px;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 11rem;
+    top: 2rem;
+
+}
+
+.UpperFlexBox11 {
+    display: flex;
+    justify-content: center;
+    width: 1170px;
+    height: 507px;
+    position: relative;
+    left: 11rem;
+}
+
+.mainFlexBox11 {
+    width: 240px;
+    height: 507.24px;
+    display: flex;
+    justify-content: center;
+}
+
+.bigBox11 {
+    width: 507px;
+    height: 507.24px;
+
+}
+
+.Box11Container {
+    width: 240px;
+    height: 254px;
+    position: relative;
+    top: 2rem;
+    /* left: 3rem; */
+}
+
+.HeadingBigBoxBox11 {
+    width: 240px;
+    height: 124px;
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.paraBigBoxBox11 {
+    width: 260px;
+    height: 60px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+
+}
+
+.LearnMoreBox11 {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+.MidLearnMoreBox11 {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    top: 1rem;
+}
+
+.Img1Box11 {
+    width: 240px;
+    height: 220px;
+}
+
+#Box11_2 {
+    position: relative;
+    left: 5rem;
+}
+
+#Box11_3 {
+    position: relative;
+    left: 5rem;
+}
+
+#Box11_4 {
+    position: relative;
+    left: 5rem;
+}
