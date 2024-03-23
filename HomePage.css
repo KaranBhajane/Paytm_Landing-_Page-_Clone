@@ -87,7 +87,7 @@ a {
 }
 
 .blue {
-    color: rgba(0, 136, 255, 0.826);
+    color: #00BAF2;
 }
 
 .midBox {
@@ -1014,6 +1014,7 @@ a {
 .Box11 {
     width: auto;
     height: 932px;
+
 }
 
 .headingBox11 {
@@ -1047,7 +1048,6 @@ a {
 .bigBox11 {
     width: 507px;
     height: 507.24px;
-
 }
 
 .Box11Container {
@@ -1055,7 +1055,7 @@ a {
     height: 254px;
     position: relative;
     top: 2rem;
-    /* left: 3rem; */
+
 }
 
 .HeadingBigBoxBox11 {
@@ -1111,4 +1111,106 @@ a {
 #Box11_4 {
     position: relative;
     left: 5rem;
+}
+
+.Box12 {
+    width: 1170px;
+    height: 360px;
+    position: relative;
+    left: 11rem;
+    top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.BigBox12 {
+    width: 170px;
+    height: 240px;
+    background-color: #00BAF2;
+    border-radius: 10px;
+}
+
+
+#Box11_One {
+    background-color: white;
+    width: 220px;
+}
+
+.logoBox11 {
+    width: 160px;
+    height: 58.69px;
+}
+
+.paraBox12 {
+    width: 200px;
+    height: 123px;
+    font-family: sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 2rem;
+}
+
+.LearnMoreBox12 {
+    height: 35px;
+    width: 200px;
+    color: #00BAF2;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.ImgBox11 {
+    width: 145px;
+    height: 158px;
+}
+
+#BuyGold{
+    height: 30px;
+    }
+
+.ImagesBox11 {
+    position: relative;
+    left: 0.6rem;
+    top: 0.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#two_Box11 {
+    position: relative;
+    left: 1rem;
+}
+
+#three_Box11 {
+    position: relative;
+    left: 2rem;
+}
+
+#four_Box11 {
+    
+    position: relative;
+    left: 3rem;
+}
+
+#five_Box11 {
+    position: relative;
+    left: 4rem;
+}
+.paraBox12_img{
+    display: inline-block;
+    width: 114px;
+    height:73px ;
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 1rem;
+    left: 1.5rem;
+}
+
+.cursorPointer{
+    cursor: pointer;
 }
