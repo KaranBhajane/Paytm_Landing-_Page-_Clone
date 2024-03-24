@@ -45,8 +45,6 @@ a {
     height: 100px;
     width: 180px;
     position: relative;
-
-
 }
 
 #signIn {
@@ -231,7 +229,6 @@ a {
 
 }
 
-
 #headingBigBox {
     position: relative;
     top: 3rem;
@@ -324,6 +321,7 @@ a {
     font-family: sans-serif;
     position: relative;
     top: 5rem;
+    left: 1rem;
 }
 
 .midbox2 {
@@ -1165,9 +1163,9 @@ a {
     height: 158px;
 }
 
-#BuyGold{
+#BuyGold {
     height: 30px;
-    }
+}
 
 .ImagesBox11 {
     position: relative;
@@ -1188,7 +1186,7 @@ a {
 }
 
 #four_Box11 {
-    
+
     position: relative;
     left: 3rem;
 }
@@ -1197,10 +1195,11 @@ a {
     position: relative;
     left: 4rem;
 }
-.paraBox12_img{
+
+.paraBox12_img {
     display: inline-block;
     width: 114px;
-    height:73px ;
+    height: 73px;
     text-align: center;
     font-size: 17px;
     font-family: sans-serif;
@@ -1211,6 +1210,37 @@ a {
     left: 1.5rem;
 }
 
-.cursorPointer{
+.cursorPointer {
     cursor: pointer;
+}
+
+.ImgBox12 {
+    position: relative;
+    top: 2rem;
+    left: 1rem;
+}
+
+.ImagesBox12 {
+    width: 72px;
+    height: 72px;
+}
+
+.textArea_lowerBox12 {
+    width: 133px;
+    height: 94px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 17px;
+    position: relative;
+    font-weight: bold;
+    top: 3rem;
+    left: 1rem;
+    line-height: 22px;
+}
+
+#span_lowerBox12 {
+    font-family: sans-serif;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
 }
