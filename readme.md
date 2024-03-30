@@ -13,7 +13,7 @@
 <b>CSS Styling:</b> CSS is used extensively to style the HTML elements, replicating the visual appearance of the original Paytm page.
 <b>Responsive Design:</b> While the project lacks responsiveness, it's a crucial aspect to consider in modern web development. Responsive design ensures that websites display correctly on various devices and screen sizes, providing an optimal user experience.</p>
 
-<h2>Why This Project?</h2>>
+<h2>Why This Project?</h2>
 <p>Creating a clone of a popular website like Paytm using only HTML and CSS provides several benefits:
 1.Hands-on Practice: By building this project, developers gain practical experience in structuring web pages and styling elements using HTML and CSS.
 2.Understanding Layouts: Cloning a complex layout like Paytm's landing page helps developers grasp the intricacies of designing and organizing content on a webpage.
