@@ -1112,7 +1112,7 @@ a {
 }
 
 .Box12 {
-    width: 1170px;
+    width: 1180px;
     height: 360px;
     position: relative;
     left: 11rem;
@@ -1120,6 +1120,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .BigBox12 {
@@ -1128,7 +1129,6 @@ a {
     background-color: #00BAF2;
     border-radius: 10px;
 }
-
 
 #Box11_One {
     background-color: white;
@@ -1156,6 +1156,7 @@ a {
     font-size: 15px;
     font-weight: bold;
     font-family: sans-serif;
+
 }
 
 .ImgBox11 {
@@ -1218,6 +1219,7 @@ a {
     position: relative;
     top: 2rem;
     left: 1rem;
+    cursor: pointer;
 }
 
 .ImagesBox12 {
@@ -1236,6 +1238,7 @@ a {
     top: 3rem;
     left: 1rem;
     line-height: 22px;
+    cursor: pointer;
 }
 
 #span_lowerBox12 {
@@ -1243,4 +1246,143 @@ a {
     color: white;
     font-size: 12px;
     font-weight: bold;
+    cursor: pointer;
+}
+
+.footer {
+    width: auto;
+    height: 992px;
+    background-color: #F5F7FA;
+    position: relative;
+    top:10rem ;
+}
+
+.footterContent{
+    position: relative;
+    top: 8rem;
+    left: 5rem;
+    
+}
+.downloadFooter{
+    display: inline-block;
+    height: 56.2px;
+    width: 240px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    position: relative;
+    top: -0.7rem;
+}
+.AppledownloadImg{
+    width: 170px;
+    height: 56.2px;
+}
+
+.appleImgFooter{
+    width: 160px;
+    height: 53px;
+}
+.playstoredownloadFooter{
+    width: 189px;
+    height: 56.2px;
+    position: relative;
+    left: 1rem;
+
+}
+.playstoreFooter{
+    width: 179px;
+    height: 53px;
+}
+.X_FooterImg{
+    position: relative;
+    top:-1rem;
+    left: 33rem;
+}
+.Insta_footerImg{
+    position: relative;
+    top:-1rem;
+    left: 34rem;
+}
+.fb_Footer{
+    position: relative;
+    top:-1rem;
+    left: 35rem;
+}
+.hr{
+    width: 1260px;
+    position: relative;
+    top: 11rem;
+    left:5rem ;
+    color: rgb(80, 80, 80);
+}
+.mainFooter{
+    position: relative;
+    left: 5rem;
+    top: 16rem;
+}
+.plusSymbFooter{
+ width: 1260px;
+ height: 46.8px;
+}
+.plusFooterText{
+    position: relative;
+    left: 0.5rem;
+    color:  rgb(80, 80, 80);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.HrFooter{
+    width: 1096.13px;
+    position: relative;
+    left: 10rem;
+    color: rgb(80, 80, 80);
+
+}
+
+.HrFooterCompany{
+    position: relative; 
+    left: 6rem;
+    width: 1160px;
+
+}
+.HrFooterCarrier{
+    width: 1200px;
+    position: relative;
+    left: 3rem;
+}
+.carrierFooter{
+    position: relative;
+    top: 2rem;
+}
+.HrFooterCarrier2{
+    width:875.6px ;
+    position: relative;
+    left: 23.5rem;
+}
+
+.HrFootecarrierr3{
+    width:1030.9px ;
+    position: relative;
+    left: 13.5rem;
+}
+
+.HrFootercarrier4{
+    width:1025.6px ;
+    position: relative;
+    left: 14rem;
+
+}
+
+.HrFootercarrier5{
+    width:1060.6px ;
+    position: relative;
+    left: 12rem;
+
+}
+.HrFootercarrier6{
+    width:1030.6px ;
+    position: relative;
+    left: 14rem;
+    
 }
