@@ -1,7 +1,5 @@
 # Paytm Landing Page Clone
 
-<<<<<<< HEAD
-=======
 <h2>Introduction:</h2>
 <p>This project is a clone of the Paytm landing page, created solely using HTML and CSS. It serves as a hands-on exercise to deepen understanding of these foundational web development technologies. However, it's essential to note that this clone is not responsive, meaning it does not adapt well to different screen sizes and devices.</p>
 
@@ -29,4 +27,4 @@ Despite its educational value, this project has some limitations:
 
 <h2>Conclusion:</h2>
 <p>This Paytm landing page clone project serves as a valuable learning experience for practicing HTML and CSS skills. While it lacks responsiveness and advanced interactivity, it lays a foundation for further exploration and improvement in web development. By addressing its limitations and incorporating feedback, developers can enhance their proficiency and create more polished projects in the future.</p>
->>>>>>> 8c3770b7d42bea14f513fb5b4652a4c0ad5f61ab
+
