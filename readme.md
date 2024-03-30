@@ -25,5 +25,5 @@ Despite its educational value, this project has some limitations:
 2.Limited Interactivity: Interactivity, such as hover effects and animations, is minimal or absent in this project.
 3.Code Optimization: The code could be further optimized for readability, maintainability, and performance.
 
-<h2>Conclusion</h2>
+<h2>Conclusion:</h2>
 <p>This Paytm landing page clone project serves as a valuable learning experience for practicing HTML and CSS skills. While it lacks responsiveness and advanced interactivity, it lays a foundation for further exploration and improvement in web development. By addressing its limitations and incorporating feedback, developers can enhance their proficiency and create more polished projects in the future.</p>
